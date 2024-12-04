@@ -1,0 +1,9 @@
+streamlit
+pandas
+json
+re
+collections
+plotly
+numpy
+ast
+scikit-learn
